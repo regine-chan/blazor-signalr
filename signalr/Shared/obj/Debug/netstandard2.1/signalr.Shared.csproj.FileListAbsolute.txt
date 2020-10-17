@@ -1,0 +1,8 @@
+C:\Users\theo_\source\repos\signalr\signalr\Shared\bin\Debug\netstandard2.1\signalr.Shared.deps.json
+C:\Users\theo_\source\repos\signalr\signalr\Shared\bin\Debug\netstandard2.1\signalr.Shared.dll
+C:\Users\theo_\source\repos\signalr\signalr\Shared\bin\Debug\netstandard2.1\signalr.Shared.pdb
+C:\Users\theo_\source\repos\signalr\signalr\Shared\obj\Debug\netstandard2.1\signalr.Shared.AssemblyInfoInputs.cache
+C:\Users\theo_\source\repos\signalr\signalr\Shared\obj\Debug\netstandard2.1\signalr.Shared.AssemblyInfo.cs
+C:\Users\theo_\source\repos\signalr\signalr\Shared\obj\Debug\netstandard2.1\signalr.Shared.csproj.CoreCompileInputs.cache
+C:\Users\theo_\source\repos\signalr\signalr\Shared\obj\Debug\netstandard2.1\signalr.Shared.dll
+C:\Users\theo_\source\repos\signalr\signalr\Shared\obj\Debug\netstandard2.1\signalr.Shared.pdb
