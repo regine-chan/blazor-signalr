@@ -433,8 +433,8 @@ C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\sign
 C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\signalr.Client.pdb
 C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
-C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\pKHg9g-t13KeZRHj1kUEDcB6kGTY4VOxyg91QiPlPqM=.hash
-C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\K_UVIJ3v8qouiWHuIbNq-G9BwZp62bQG_1TMmvq87qc=.hash
-C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\9cPg_vc0RarxOzwVkieLKz9PNKCznmfWsylp3kKn8Jk=.hash
-C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\8s5Eon7PRgdZzLMGCi9sbA1_fc-hSp6sSZAq3nmisgc=.hash
-C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\WiiuM0IWo7HpikMCnzPcsDuuBwa-CiIHfUmYXiQlI-g=.hash
+C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\QH91QbLBIcTl8AFtuqDiuB-Gi7mm7t-m3gRI__pClOI=.hash
+C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\x5a9BTJd1RAEGCFRVPk-DMHfiT9N_LjR1wRBKtlCTnM=.hash
+C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\sDfImpALbil7Nk6xGEYMgSeF-2DWI8lvg1bH78vPmuQ=.hash
+C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\QcWM6aJR8BfZdiZyEDecrbkwSa5eE-4nq_e2G7iS4y0=.hash
+C:\Users\theo_\source\repos\signalr\signalr\Client\obj\Debug\netstandard2.1\integrity\WS5MOjuSzi5RE0b6GNlnAjqgnKvO70vOGRn4_z0tv-U=.hash

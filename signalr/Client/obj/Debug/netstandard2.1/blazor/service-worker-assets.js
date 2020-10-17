@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-K+UVIJ3v8qouiWHuIbNq\/G9BwZp62bQG+1TMmvq87qc=",
+      "hash": "sha256-x5a9BTJd1RAEGCFRVPk\/DMHfiT9N+LjR1wRBKtlCTnM=",
       "url": "_framework\/_bin\/signalr.Client.dll"
     },
     {
@@ -317,7 +317,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-9cPg+vc0RarxOzwVkieLKz9PNKCznmfWsylp3kKn8Jk=",
+      "hash": "sha256-sDfImpALbil7Nk6xGEYMgSeF\/2DWI8lvg1bH78vPmuQ=",
       "url": "_framework\/_bin\/signalr.Client.pdb"
     },
     {
@@ -341,9 +341,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-8s5Eon7PRgdZzLMGCi9sbA1+fc\/hSp6sSZAq3nmisgc=",
+      "hash": "sha256-QcWM6aJR8BfZdiZyEDecrbkwSa5eE\/4nq+e2G7iS4y0=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "EMV52fYm"
+  "version": "6ouWEJh2"
 };

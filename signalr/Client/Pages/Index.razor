@@ -1,5 +1,7 @@
 ﻿@page "/"
 @using Microsoft.AspNetCore.SignalR.Client
+@using Microsoft.AspNetCore.Http
+@inject HttpClient Http
 
 <h1>Welcome to SignalR with blazor</h1>
 <button class="btn btn-success" @onclick="async () => await ConnectToServer()" disabled="@isConnected">Connect</button>
@@ -18,7 +20,7 @@
 
 
 @code {
-    string url = "https://localhost:44308/notificationshub";
+    string url = null;  
 
     HubConnection _connection = null;
     bool isConnected = false;
@@ -26,11 +28,15 @@
 
     List<string> notifications = new List<string>();
 
-    private async Task ConnectToServer()
+        protected override void OnInitialized()
+        {
+            url = Http.BaseAddress.AbsoluteUri + "notificationshub";
+        Console.WriteLine(url);
+        }
+
+        private async Task ConnectToServer()
     {
         _connection = new HubConnectionBuilder().WithUrl(url).Build();
-
-
 
         await _connection.StartAsync();
         connectionStatus = "Connected";
